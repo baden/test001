@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+
+<head>
+  <script data-ionic="inject">
+    (function(w){var i=w.Ionic=w.Ionic||{};i.version='3.9.2';i.angular='5.2.11';i.staticDir='build/';})(window);
+  </script>
+    <meta charset="UTF-8">
+    <!--base href="/portamerica/"-->
+    <title>PortAmérica</title>
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+    <link rel="icon" type="image/x-icon" href="assets/icon/pa-favicon.png">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#222">
+
+    <meta name="msapplication-TileImage" content="assets/icon/icono152x152.jpg">
+    <meta name="msapplication-TileColor" content="#222">
+
+    <!-- add to homescreen for ios -->
+    <meta name="apple-mobile-web-app-title" content="PortAmérica">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="assets/icon/icono152x152.jpg">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/icon/icono152x152.jpg">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/icon/icono180x180.jpg">
+    <link rel="apple-touch-icon" sizes="167x167" href="assets/icon/icono167x167.jpg">
+    <!-- iPhone X (1125px x 2436px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="assets/splash/SplashScreen1125x2436.jpg">
+    <!-- iPhone 8, 7, 6s, 6 (750px x 1334px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="assets/splash/SplashScreen750x1334.jpg">
+    <!-- iPhone 8 Plus, 7 Plus, 6s Plus, 6 Plus (1242px x 2208px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" href="assets/splash/SplashScreen1242x2208.jpg">
+    <!-- iPhone 5 (640px x 1136px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="assets/splash/SplashScreen640x1136.jpg">
+    <!-- iPad Mini, Air (1536px x 2048px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" href="assets/splash/SplashScreen1536x2048.jpg">
+    <!-- iPad Pro 10.5" (1668px x 2224px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" href="assets/splash/SplashScreen1668x2224.jpg">
+    <!-- iPad Pro 12.9" (2048px x 2732px) -->
+    <link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" href="assets/splash/SplashScreen2048x2732.jpg">
+    <script src="assets/scripts/pjxml.js"></script>
+    <script src="assets/scripts/NoSleep.min.js"></script>
+    <script src="assets/scripts/granim.min.js"></script>
+    <script src="assets/scripts/stencil/wp-components.js"></script>
+    <script>
+        /**/var hasNewUpdate = false;
+        if ('serviceWorker' in navigator) {
+            var currentWorker = null;
+            navigator.serviceWorker.register('service-worker.js')
+                .then(registration => {
+                    console.log("Service Worker Registered");
+                    currentWorker = registration;
+                    // We don't want to check for updates on first load or we will get a false
+                    // positive. registration.active will be falsy on first load.
+                    if (registration.active) {
+                        // Check if an updated sw.js was found
+                        registration.addEventListener('updatefound', () => {
+                            console.log('Update found. Waiting for install to complete.');
+                            const installingWorker = registration.installing;
+                            // Watch for changes to the worker's state. Once it is "installed", our cache
+                            // has been updated with our new files, so we can prompt the user to instantly
+                            // reload.
+                            installingWorker.addEventListener('statechange', () => {
+                                window.appUpdateEvent = new CustomEvent('appUpdate', {
+                                    detail: installingWorker
+                                });
+                                if (installingWorker.state === 'installed') {
+                                    console.log('Install complete. Triggering update prompt.');
+                                    hasNewUpdate = true;
+                                    window.dispatchEvent(window.appUpdateEvent);
+                                }
+                            });
+                        });
+                    }
+                })
+                .catch(e => console.log(e));
+            navigator.serviceWorker.addEventListener('controllerchange', function(e) {
+                if (!hasNewUpdate) return;
+                refreshing = true;
+                window.location.reload();
+            });
+        }
+        
+        window.addEventListener('beforeinstallprompt', function (e) {
+            e.preventDefault();
+            window.appInstallEvent = new CustomEvent('appInstall', {
+                detail: e
+            });
+            window.dispatchEvent(window.appInstallEvent);
+        });             
+        /**/
+    </script>
+
+
+    <link href="build/main.css" rel="stylesheet">
+    <link href="assets/css/animate.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-grid.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Ionic's root component and where the app will load -->
+    <ion-app></ion-app>
+
+    <!-- The polyfills js is generated during the build process -->
+    <script src="build/polyfills.js"></script>
+
+    <!-- The vendor js is generated during the build process
+       It contains all of the dependencies in node_modules -->
+    <script src="build/vendor.js"></script>
+
+    <!-- The main bundle js is generated during the build process -->
+    <script src="build/main.js"></script>
+
+</body>
+
+</html>

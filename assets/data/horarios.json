@@ -1,0 +1,244 @@
+﻿{
+	"escenarios": ["Escenario Son Estrela Galicia", "Escenario Cultura Quente"],
+	"dias": [
+		{
+			"text": "5 Julio",
+			"slots": [
+				{
+					"id": "loscaligaris",
+					"artista": "Los Caligaris",
+					"hora": "18:45",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagecaglaris.jpg"
+				},
+				{
+					"id": "carlosmendez",
+					"artista": "Carlos Méndez",
+					"hora": "19:45",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagecarlosmendez.jpg"
+				},
+				{
+					"id": "losautenticosdecadentes",
+					"artista": "Los Auténticos Decadentes",
+					"hora": "20:45",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/losautenticosdecadentes1.jpg"
+				},
+				{
+					"id": "chicotrujillo",
+					"artista": "Chico Trujillo",
+					"hora": "22:00",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/chicotrujillo1.jpg"
+				},
+				{
+					"id": "imeldamay",
+					"artista": "Imelda May",
+					"hora": "22:45",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimageimelda.jpg"
+				},
+				{
+					"id": "jennymexicats",
+					"artista": "Jenny and the Mexicats",
+					"hora": "00:00",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagejenny.jpg"
+				},
+				{
+					"id": "lapegatina",
+					"artista": "La Pegatina",
+					"hora": "01:00",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/lapegatina1.jpg"
+				},
+				{
+					"id": "pussyroit",
+					"artista": "Pussy Riot",
+					"hora": "02:30",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagepussyriot.jpg"
+				},
+				{
+					"id": "mitu",
+					"artista": "Mitú",
+					"hora": "03:30",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagemitu.jpg"
+				}
+			]
+		},
+		{
+			"text": "6 Julio",
+			"slots": [
+				{
+					"id": "altovolta",
+					"artista": "Alto Volta",
+					"hora": "17.00",
+					"escenario": 2,
+					"menuimage": "./assets/imgs/noimagebg.png"
+				},
+				{
+					"id": "habitacionvudu",
+					"artista": "Habitación Vudú",
+					"hora": "17.30",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagehabitacionvudu.jpg"
+				},
+				{
+					"id": "iseododosound",
+					"artista": "Iseo & Dodosound",
+					"hora": "18:00",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimageiseo.jpg"
+				},
+				{
+					"id": "lavidaboheme",
+					"artista": "La Vida Bohème",
+					"hora": "18:45",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagelavidaboheme.jpg"
+				},
+				{
+					"id": "miranda",
+					"artista": "Miranda!",
+					"hora": "20:00",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagemiranda.jpg"
+				},
+				{
+					"id": "neuman",
+					"artista": "Neuman",
+					"hora": "21:15",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/neuman1.jpg"
+				},
+				{
+					"id": "vivasuecia",
+					"artista": "Viva Suecia",
+					"hora": "22:30",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/vivasuecia1.jpg"
+				},
+				{
+					"id": "lahabitacionroja",
+					"artista": "La Habitación Roja",
+					"hora": "23:30",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagehabitacionroja.jpg"
+				},
+				{
+					"id": "vetustamorla",
+					"artista": "Vetusta Morla",
+					"hora": "00:30",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagevetustamorla.jpg"
+				},
+				{
+					"id": "was",
+					"artista": "WAS",
+					"hora": "02:00",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagewas.jpg"
+				},
+				{
+					"id": "arturopaniaguadj",
+					"artista": "Arturo Paniagua Dj",
+					"hora": "03:00",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagearturo.jpg"
+				}
+			]
+		},
+		{
+			"text": "7 Julio",
+			"slots": [
+				{
+					"id": "pardo",
+					"artista": "Pardo",
+					"hora": "17.00",
+					"escenario": 2,
+					"menuimage": "./assets/imgs/noimagebg.png"
+				},
+				{
+					"id": "luisbrea",
+					"artista": "Luis Brea",
+					"hora": "17:45",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimageluisbrea.jpg"
+				},
+				{
+					"id": "jacoboserra",
+					"artista": "Jacobo Serra",
+					"hora": "18:30",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagejacobo.jpg"
+				},
+				{
+					"id": "pasajero",
+					"artista": "Pasajero",
+					"hora": "19:15",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagepasajero.jpg"
+				},
+				{
+					"id": "loscoronas",
+					"artista": "Los Coronas",
+					"hora": "20:15",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagecoronas.jpg"
+				},
+				{
+					"id": "shinova",
+					"artista": "Shinova",
+					"hora": "21:00",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menushinova1.jpg"
+				},
+				{
+					"id": "xoellopez",
+					"artista": "Xoel López",
+					"hora": "21:45",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimagexoel.jpg"
+				},
+				{
+					"id": "wethelion",
+					"artista": "We The Lion",
+					"hora": "23:15",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/menuimagewtl.jpg"
+				},
+				{
+					"id": "izal",
+					"artista": "Izal",
+					"hora": "00:00",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimageizal1.jpg"
+				},
+				{
+					"id": "elcolumpioasesino",
+					"artista": "El Columpio Asesino",
+					"hora": "01:30",
+					"escenario": 2,
+					"menuimage": "https://portamerica.es/app/elcolumpioasesino1.jpg"
+				},
+				{
+					"id": "elyella",
+					"artista": "Elyella",
+					"hora": "02:45",
+					"escenario": 1,
+					"menuimage": "https://portamerica.es/app/menuimageelyella.jpg"
+				},
+				{
+					"id": "dj",
+					"artista": "DJ",
+					"hora": "04:30",
+					"escenario": 2,
+					"menuimage": "./assets/imgs/noimagebg.png"
+				}
+			]
+		}
+	]
+}

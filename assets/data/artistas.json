@@ -1,0 +1,407 @@
+{
+	"artistas": [
+		{
+			"id": "arturopaniaguadj",
+			"nombre": "Arturo Paniagua Dj",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Actualmente &#x3C;strong&#x3E;dirige y presenta &#x26;ldquo;LOS40 Trending&#x26;rdquo;&#x3C;/strong&#x3E;, colabora como asesor musical en el&#x26;nbsp;programa &#x26;ldquo;Fama&#x26;rdquo; de Movistar+ y muchos m&#x26;aacute;s &#x3C;strong&#x3E;proyectos&#x3C;/strong&#x3E; de los que forma parte. El&#x26;nbsp;&#x3C;strong&#x3E;polifac&#x26;eacute;tico&#x3C;/strong&#x3E; Paniagua ha estado haciendo bailar a gran parte del territorio nacional con&#x26;nbsp;sus &#x3C;strong&#x3E;sesiones de DJ, siempre a punto con las novedades musicales&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagearturo.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/arturopiniagua.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "azulvioleta",
+			"nombre": "Azul Violeta",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;La banda de &#x3C;strong&#x3E;funk rock&#x3C;/strong&#x3E; con 30 a&#x26;ntilde;os en activo, extenso repertorio y una gran comunidad&#x26;nbsp;de seguidores, llenar&#x26;aacute; el escenario. Con una estructura &#x3C;strong&#x3E;potente y coherente&#x3C;/strong&#x3E;&#x26;nbsp;presentaron en 2015 &#x3C;strong&#x3E;Lo P&#x26;uacute;blico y Lo Privado&#x3C;/strong&#x3E;. Su &#x3C;strong&#x3E;compromiso ecologista&#x3C;/strong&#x3E; genera&#x26;nbsp;&#x3C;strong&#x3E;mensajes positivos&#x3C;/strong&#x3E; en sus canciones.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageazulvioleta.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/azulvioleta1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "carlosmendez",
+			"nombre": "Carlos Méndez",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; &#x3E;El cantautor &#x3C;strong&#x3E;repite una vez m&#x26;aacute;s con nosotros despu&#x26;eacute;s de su presentaci&#x26;oacute;n en 2014&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;&#x3C;p&#x3E;Sus canciones han viajado por toda Latinoam&#x26;eacute;rica, desde su primer EP, hasta sus dos&#x26;nbsp;discos De Pie (2009) y Mar (2011), consiguiendo as&#x26;iacute; forjarse un &#x3C;strong&#x3E;nombre en la escena&#x26;nbsp;alternativa nacional&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagecarlosmendez.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/carlosmendez6.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "chicotrujillo",
+			"nombre": "Chico Trujillo",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Una de &#x3C;strong&#x3E;orquestas&#x3C;/strong&#x3E; m&#xE1;s importantes de Chile, banda sonora de todas las fiestas. Su mezcla de &#x3C;strong&#x3E;cumbia&#x3C;/strong&#x3E; cl&#xE1;sica, &#x3C;strong&#x3E;bolero&#x3C;/strong&#x3E;, m&#xFA;sica &#x3C;strong&#x3E;latinoamericana&#x3C;/strong&#x3E;, &#x3C;strong&#x3E;balc&#xE1;nica&#x3C;/strong&#x3E; y &#x3C;strong&#x3E;reggae&#x3C;/strong&#x3E; les ha asegurado un p&#xFA;blico de todas las generaciones y estilos. Un c&#xF3;ctel &#xFA;nico que se las ha arreglado para incorporar todos los aspectos de la&#x3C;strong&#x3E; cultura popular chilena&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/chicotrujillo1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/chicotrujillo2.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "elcolumpioasesino",
+			"nombre": "El Columpio Asesino",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Uno de los grupos m&#xE1;s &#x3C;strong&#x3E;personales&#x3C;/strong&#x3E; e &#x3C;strong&#x3E;influyentes&#x3C;/strong&#x3E; de la escena Iberoamericana de los &#xFA;ltimos a&#xF1;os. &#x3C;strong&#x3E;La decadencia en sus manos se vuelve frenes&#xED;, y sus conciertos son la mejor muestra.&#x3C;/strong&#x3E; &#x3C;strong&#x3E;Oscuros&#x3C;/strong&#x3E;, rodeados de &#x3C;strong&#x3E;tensi&#xF3;n&#x3C;/strong&#x3E;, con un acabado &#x3C;strong&#x3E;sofisticado&#x3C;/strong&#x3E; y diferente, una dualidad vocal irresistible, hits... y con &#x3C;strong&#x3E;nuevo disco&#x3C;/strong&#x3E; en proceso.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/elcolumpioasesino1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/elcolumpioasesino3.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "elyella",
+			"nombre": "Elyella",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;La cr&#x26;iacute;tica los sit&#x26;uacute;a como el &#x3C;strong&#x3E;alma de cualquier festival&#x3C;/strong&#x3E; y ellos lo reafirman en cada uno&#x26;nbsp;de sus shows. Como una &#x3C;strong&#x3E;m&#x26;aacute;gica uni&#x26;oacute;n entre el indie y la electr&#x26;oacute;nica&#x3C;/strong&#x3E;, crean sus&#x26;nbsp;sesiones y remixes. Desde que comenzaron en 2010, no se han perdido ning&#x26;uacute;n festival&#x26;nbsp;nacional. Adem&#x26;aacute;s, trabajan &#x3C;strong&#x3E;colaborando con otros grandes artistas como Le&#x26;oacute;n&#x26;nbsp;Benavente o Viva Suecia&#x3C;/strong&#x3E;, o revitalizando cl&#x26;aacute;sicos del rock alternativo.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageelyella.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/elyella2.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "habitacionvudu",
+			"nombre": "Habitación Vudú",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Su reci&#x26;eacute;n estrenado &#x3C;strong&#x3E;videoclip de La Estafa&#x3C;/strong&#x3E; es solo un adelanto de lo que est&#x26;aacute; por&#x26;nbsp;llegar en su &#x3C;strong&#x3E;nuevo EP&#x3C;/strong&#x3E;. El cuarteto ourensano asienta su &#x3C;strong&#x3E;pop-rock con un estilo propio&#x3C;/strong&#x3E;&#x26;nbsp;en cada uno de sus directos. A pesar de su brevedad en la escena, ha tenido &#x3C;strong&#x3E;gran&#x26;nbsp;acogida entre su p&#x26;uacute;blico.&#x3C;/strong&#x3E;&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagehabitacionvudu.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/habitacionvudu1.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "imeldamay",
+			"nombre": "Imelda May",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Una de las voces femeninas m&#x26;aacute;s carism&#x26;aacute;ticas. Fundir&#x26;aacute; el escenario con su &#x3C;strong&#x3E;amplio&#x26;nbsp;repertorio de rockabilly, blues y jazz&#x3C;/strong&#x3E;. Gan&#x26;oacute; el premio a &#x26;laquo;Mejor Artista Femenina del&#x26;nbsp;A&#x26;ntilde;o de Irlanda&#x26;raquo; en 2009 de los Meteor Awards. Tiene un &#x3C;strong&#x3E;estilo tan propio&#x3C;/strong&#x3E; que ya es&#x26;nbsp;considerada un referente musical en el g&#x26;eacute;nero.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageimelda.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/imeldamay1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "iseododosound",
+			"nombre": "Iseo & Dodosound",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;De un proyecto experimental naci&#x26;oacute; una &#x3C;strong&#x3E;revoluci&#x26;oacute;n para el g&#x26;eacute;nero reggae y dub&#x3C;/strong&#x3E;&#x26;nbsp;nacional. Cat Platoon (2015) marc&#x26;oacute; un comienzo definido y fresco que impuls&#x26;oacute; su&#x26;nbsp;lanzamiento por &#x3C;strong&#x3E;Europa y Espa&#x26;ntilde;a&#x3C;/strong&#x3E;. Ahora, &#x3C;strong&#x3E;Roots in the Air&#x3C;/strong&#x3E; (2017) se caracteriza por su&#x26;nbsp;minimalismo musical, una evocadora voz y mensajes m&#x26;aacute;s adultos y evolucionados.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageiseo.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/iseododosound1.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "izal",
+			"nombre": "Izal",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;&#x3C;strong&#x3E;&#x22;Autoterapia&#x22;&#x3C;/strong&#x3E; ser&#xE1; el t&#xED;tulo de su &#x3C;strong&#x3E;nuevo&#x3C;/strong&#x3E; y esperado 4&#xBA; trabajo de estudio. &#x3C;strong&#x3E;Un&#x3C;/strong&#x3E; disco que ver&#xE1; la luz a principios de 2018 y que les devolver&#xE1; a los escenarios tras caso un a&#xF1;o de retiro en el que los estudios de La Casa Murada (Tarragona) se han convertido en su segundo hogar. &#xA1;La de PortAm&#xE9;rica ser&#xE1; la&#x3C;strong&#x3E; &#xFA;nica cita de Izal en Galicia &#x3C;/strong&#x3E;en 2018!&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageizal1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/izal4.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "jacoboserra",
+			"nombre": "Jacobo Serra",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Uno de los &#x3C;strong&#x3E;mejores compositores&#x3C;/strong&#x3E; que han aparecido en Espa&#xF1;a en muchos a&#xF1;os. En &#x3C;strong&#x3E;&#x3C;em&#x3E;Fuego Artificial&#x3C;/em&#x3E;&#x3C;/strong&#x3E; (septiembre 201),producido por &#x3C;strong&#x3E;Juanma Latorre&#x3C;/strong&#x3E; de &#x3C;strong&#x3E;Vetusta Morla&#x3C;/strong&#x3E;, su voz suena hermosa y magn&#xE9;tica. Jacobo suena grande y definitivamente &#x3C;strong&#x3E;contempor&#xE1;neo&#x3C;/strong&#x3E;. Una bocanada de ox&#xED;geno refrescante y diferente entre la escena local.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagejacobo.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/jacoboserra7.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "jennymexicats",
+			"nombre": "Jenny and the Mexicats",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E; Jenny and the Mexicats es una fant&#xE1;stica banda &#x3C;strong&#x3E;multicultural &#x3C;/strong&#x3E;que re&#xFA;ne a Jenny (inglesa), Icho y Pantera (mexicanos) y David (espa&#xF1;ol), para crear perfectos ritmos de jazz, rockabilly, folk, flamenco y reggae que aderezan con c&#xE1;lidas sonoridades latinas, llev&#xE1;ndonos en un instante de M&#xE9;xico a Jamaica y de Londres al Caribe en un ex&#xF3;tico tour despojado de prejuicios. Gracias a su inter&#xE9;s y su curiosidad por conocer culturas y pa&#xED;ses nuevos, Jenny and the Mexicats tienen muchos kil&#xF3;metros a sus espaldas.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagejenny.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/jennymexicats1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "lahabitacionroja",
+			"nombre": "La Habitación Roja",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Uno de los mejores ejemplos posibles de &#x3C;strong&#x3E;carrera&#x26;nbsp;de fondo&#x3C;/strong&#x3E; en la historia de la m&#xFA;sica popular en Espa&#xF1;a. &#x3C;strong&#x3E;20 a&#xF1;os&#x3C;/strong&#x3E; publicando canciones sin parar, con 10 discos oficiales y montones de singles y EPs, y&#x26;nbsp;una coherencia y constancia que ha provocado que cada &#xE1;lbum suponga un paso m&#xE1;s hacia el altar de&#x26;nbsp;los cl&#xE1;sicos. &#x3C;strong&#x3E;Su mejor momento&#x3C;/strong&#x3E; siempre ha sido &#x3C;strong&#x3E;el presente&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagehabitacionroja.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/lahabitacionroja1.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "lapegatina",
+			"nombre": "La Pegatina",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;En los &#xFA;ltimos a&#xF1;os se han convertido en la propuesta m&#xE1;s &#x3C;strong&#x3E;festiva&#x3C;/strong&#x3E; y &#x3C;strong&#x3E;en&#xE9;rgica&#x3C;/strong&#x3E; del circuito internacional. Con &#x3C;strong&#x3E;15 a&#xF1;os&#x3C;/strong&#x3E; de trayectoria y casi &#x3C;strong&#x3E;30 pa&#xED;ses&#x3C;/strong&#x3E; visitados, regresa a los escenarios para presentar su &#x3C;strong&#x3E;nuevo &#xE1;lbum&#x3C;/strong&#x3E; (abril 2018). Con un nuevo show a&#xFA;n m&#xE1;s intenso y movido (marca de la casa), se atreven a contagiarte el &#x3C;strong&#x3E;baile&#x3C;/strong&#x3E; y la &#x3C;strong&#x3E;alegr&#xED;a&#x3C;/strong&#x3E; que siempre desprenden.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/lapegatina1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/lapegatina2.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "lavidaboheme",
+			"nombre": "La Vida Bohème",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Considerada la &#x3C;strong&#x3E;banda&#x3C;/strong&#x3E; de &#x3C;strong&#x3E;rock&#x3C;/strong&#x3E; &#x3C;strong&#x3E;n&#xFA;mero 1 &#x3C;/strong&#x3E;en su pa&#xED;s, en 2017 publican su tercer disco: &#x3C;strong&#x3E;&#x3C;em&#x3E;La Lucha&#x3C;/em&#x3E;&#x3C;/strong&#x3E;, &#x3C;strong&#x3E;producido&#x3C;/strong&#x3E; por Eduardo Cabra (&#x3C;em&#x3E;Visitante&#x3C;strong&#x3E; Calle 13&#x3C;/strong&#x3E;&#x3C;/em&#x3E;). A pesar de su breve trayectoria atesoran &#x3C;strong&#x3E;2&#x3C;/strong&#x3E; &#x3C;strong&#x3E;Latin Grammy&#x3C;/strong&#x3E; y m&#xFA;ltiples nominaciones a estos y otros premios. Nominados &#x201C;Mejor Banda Nueva del Mundo&#x201D; por MTV Iggy y reconocidos por &#x3C;strong&#x3E;Itunes&#x3C;/strong&#x3E; como &#x201C;&#x3C;strong&#x3E;Artista Revelaci&#xF3;n 2011&#x3C;/strong&#x3E;&#x201D;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagelavidaboheme.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/lavidaboheme5.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "losautenticosdecadentes",
+			"nombre": "Los Auténticos Decadentes",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;El &#x3C;strong&#x3E;rock instrumental y surf rock&#x3C;/strong&#x3E; de la banda madrile&#x26;ntilde;a cautivan con su &#x3C;strong&#x3E;larga lista&#x26;nbsp;discogr&#x26;aacute;fica&#x3C;/strong&#x3E;. Desde los 90 irrumpen con un sonido propio al nivel de bandas&#x26;nbsp;americanas de surf. Fue su disco &#x3C;strong&#x3E;Caliente Caliente (2004)&#x3C;/strong&#x3E; el punto &#x26;aacute;lgido de madurez y&#x26;nbsp;solvencia, proyect&#x26;aacute;ndolos en el &#x3C;strong&#x3E;panorama internacional&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/losautenticosdecadentes1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/losautenticosdecadentes2.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "loscaligaris",
+			"nombre": "Los Caligaris",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Suyo es el &#x3C;strong&#x3E;show circense&#x3C;/strong&#x3E; que los caracteriza en los escenarios. Este amplio conjunto de&#x26;nbsp;artistas consigue fusionar &#x3C;strong&#x3E;rock, ska y reggae&#x3C;/strong&#x3E; con el m&#x26;aacute;s propio &#x3C;strong&#x3E;cuarteto cordob&#x26;eacute;s&#x3C;/strong&#x3E;.&#x26;nbsp;Despu&#x26;eacute;s de 20 a&#x26;ntilde;os en activo, &#x3C;strong&#x3E;8 discos editados&#x3C;/strong&#x3E; y 3 nominaciones a los premios Carlos&#x26;nbsp;Gardel de Argentina, fue galardonado a este mismo en 2017 con su disco Circolog&#x26;iacute;a.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagecaglaris.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/loscaligaris1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "loscoronas",
+			"nombre": "Los Coronas",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Una de las bandas de &#x3C;strong&#x3E;rock&#x3C;/strong&#x3E; m&#xE1;s queridas y respetadas en Am&#xE9;rica Latina, se encuentra en plena gira de celebraci&#xF3;n por sus &#x3C;strong&#x3E;30 a&#xF1;os de carrera&#x3C;/strong&#x3E;. Con una marcada fusi&#xF3;n de ritmos que van de la &#x3C;strong&#x3E;murga&#x3C;/strong&#x3E; al &#x3C;strong&#x3E;ska&#x3C;/strong&#x3E;, el &#x3C;strong&#x3E;reggae&#x3C;/strong&#x3E; o la &#x3C;strong&#x3E;balada&#x3C;/strong&#x3E; siempre con el &#x3C;strong&#x3E;rock&#x3C;/strong&#x3E; como hilo conductor, han vendido m&#xE1;s de 1 mill&#xF3;n de discos en todo el mundo&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagecoronas.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/coronas4.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "luisbrea",
+			"nombre": "Luis Brea",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Uno de los iconos de la nocturna Malasa&#x26;ntilde;a y autodenominado &#x3C;strong&#x3E;postindie&#x3C;/strong&#x3E;. La vida en la&#x26;nbsp;ciudad se plasma en los mensajes de sus &#x3C;strong&#x3E;canciones ir&#x26;oacute;nicas, costumbristas y festivas&#x3C;/strong&#x3E;.&#x26;nbsp;Lleva en la atm&#x26;oacute;sfera indie desde finales de los 90. &#x3C;strong&#x3E;Hipotenusa&#x3C;/strong&#x3E; es su trabajo &#x3C;strong&#x3E;debut&#x3C;/strong&#x3E;&#x26;nbsp;que sobresale nacionalmente por su &#x3C;strong&#x3E;originalidad y estilo&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimageluisbrea.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/luisbrea2.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "miranda",
+			"nombre": "Miranda!",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;&#x3C;strong&#x3E;Premiados&#x3C;/strong&#x3E; en 2014 con el &#x3C;strong&#x3E;MTV Europe Music Award&#x3C;/strong&#x3E; for &#x26;ldquo;Best Latin America South&#x26;nbsp;Act&#x26;rdquo;. Este grupo de &#x3C;strong&#x3E;pop rock y electropop&#x3C;/strong&#x3E; tiene una fama rese&#x26;ntilde;able y una larga&#x26;nbsp;colecci&#x26;oacute;n de &#x26;eacute;xitos.&#x3C;/p&#x3E;&#x3C;p&#x3E;Definen su &#x26;uacute;ltimo disco &#x3C;strong&#x3E;Fuerte&#x3C;/strong&#x3E; (2017) como una &#x3C;strong&#x3E;reacci&#x26;oacute;n natural&#x3C;/strong&#x3E; a los tiempos que&#x26;nbsp;corren. Uno de sus &#x26;uacute;ltimos trabajos fue la &#x3C;strong&#x3E;colaboraci&#x26;oacute;n con Carlos Sadness&#x3C;/strong&#x3E; para&#x26;nbsp;&#x26;ldquo;C&#x26;aacute;lido y rojo&#x26;rdquo;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagemiranda.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/miranda1.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "mitu",
+			"nombre": "Mitú",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;El &#x3C;strong&#x3E;d&#x26;uacute;o de m&#x26;uacute;sica electr&#x26;oacute;nica&#x3C;/strong&#x3E; de Juli&#x26;aacute;n Salazar, &#x3C;strong&#x3E;ex guitarrista&#x3C;/strong&#x3E; de la banda de cumbia&#x26;nbsp;&#x3C;strong&#x3E;Bomba Est&#x26;eacute;reo&#x3C;/strong&#x3E; y Franklin Tejedor, desenmascaran su faceta m&#x26;aacute;s &#x3C;strong&#x3E;experimental y&#x26;nbsp;selv&#x26;aacute;tica&#x3C;/strong&#x3E;. Como si de un ritual se tratase, volver&#x26;aacute;n en esta edici&#x26;oacute;n tras el lanzamiento&#x26;nbsp;de &#x3C;strong&#x3E;Cosmus&#x3C;/strong&#x3E; (2017). Galardonados a &#x3C;strong&#x3E;Mejor Propuesta Electr&#x26;oacute;nica&#x3C;/strong&#x3E; en los Premios Shock&#x26;nbsp;de la M&#x26;uacute;sica en Colombia en 2016.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagemitu.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/mitu1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "neuman",
+			"nombre": "Neuman",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;El &#x3C;strong&#x3E;nuevo disco &#x3C;/strong&#x3E;de Neuman se llama &#x3C;strong&#x3E;&#x3C;em&#x3E;Crashpad&#x3C;/em&#x3E;&#x3C;/strong&#x3E; y llega 3 a&#xF1;os y 3 meses despu&#xE9;s de la intensa gira de su anterior &#xE1;lbum: &#x3C;strong&#x3E;&#x3C;em&#x3E;If&#x3C;/em&#x3E;&#x3C;/strong&#x3E;, que les coloc&#xF3; en la &#x3C;strong&#x3E;primera l&#xED;nea &#x3C;/strong&#x3E;de la m&#xFA;sica &#x3C;strong&#x3E;independiente&#x3C;/strong&#x3E; de nuestro pa&#xED;s y que abordaron sin parar desde el EP &#x3C;strong&#x3E;&#x3C;em&#x3E;Bye Fear / Hi Love &#x3C;/em&#x3E;&#x3C;/strong&#x3E;&#x3C;em&#x3E;(2013). &#x3C;/em&#x3E;Paco Rom&#xE1;n celebra&#x3C;strong&#x3E; 20 a&#xF1;os&#x3C;/strong&#x3E; de &#x3C;strong&#x3E;carrera&#x3C;/strong&#x3E; con su disco &#x22;m&#xE1;s ilusionante&#x201D;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/neuman1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/neuman2.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "pardo",
+			"nombre": "Pardo",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Lejano de poder ser etiquetado, presenta su &#x26;uacute;ltimo &#x26;aacute;lbum &#x3C;strong&#x3E;Lib&#x26;eacute;lula&#x3C;/strong&#x3E;, producido por el&#x26;nbsp;tambi&#x26;eacute;n m&#x26;uacute;sico &#x3C;strong&#x3E;Alejandro Gonz&#x26;aacute;lez&#x3C;/strong&#x3E;. Una grand&#x26;iacute;sima &#x3C;strong&#x3E;combinaci&#x26;oacute;n de blues, rock y&#x26;nbsp;pop&#x3C;/strong&#x3E; con pinceladas de cumbia, bolero y el sonido cubano de sus ra&#x26;iacute;ces. La constante&#x26;nbsp;transformaci&#x26;oacute;n e interacci&#x26;oacute;n con la m&#x26;uacute;sica define su &#x3C;strong&#x3E;talento&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagepardo.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/pardo3.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "pasajero",
+			"nombre": "Pasajero",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Pasajero cambia las formas y la producci&#xF3;n, pero de nuevo se rodea de un gran equipo consiguiendo as&#xED; un disco que no entiende de etiquetas. Diez en&#xE9;rgicas canciones, luminosas y cuidadas, en las que volvemos a descubrir la calidad de unas letras que describen, con acertados trazos de esperanza y rabia, momentos personales de la banda y situaciones colectivas. En definitiva, unos &#x22;Ant&#xED;dotos fugaces&#x22; que nos alejan del veneno que nos rodea y que nos dejan en el paladar el buen sabor de las propuestas honestas, inquietas y trabajadas.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagepasajero.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/pasajero1.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "pussyroit",
+			"nombre": "Pussy Riot",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Un colectivo de &#x3C;strong&#x3E;punk rock feminista&#x3C;/strong&#x3E; con mucho que sorprender en sus performances. En sus shows la &#x3C;strong&#x3E;provocaci&#x26;oacute;n pol&#x26;iacute;tica es vertebradora&#x3C;/strong&#x3E;. Lo reflejan en sus discos Kill the&#x26;nbsp;Sexist! (2012) o Wont Get Fooled Again (2015), ba&#x26;ntilde;ados por movimientos como el&#x26;nbsp;estadounidense &#x3C;strong&#x3E;Riot Grrrl&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagepussyriot.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/pussyriot1.jpg"
+				}
+			],
+			"fechaHora": "Jueves 5",
+			"escenario": "tba"
+		},
+		{
+			"id": "shinova",
+			"nombre": "Shinova",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Vienen de &#x3C;strong&#x3E;Vizcaya&#x3C;/strong&#x3E; y cuentan con &#x3C;strong&#x3E;3 discos&#x3C;/strong&#x3E; en su haber. Pero lo mejor estaba por llegar y ha sido tras escuchar &#x3C;strong&#x3E;&#x3C;em&#x3E;Volver&#x3C;/em&#x3E;&#x3C;/strong&#x3E;(2016), su nuevo trabajo hasta la fecha. Son j&#xF3;venes pero se contin&#xFA;an redefiniendo y es por eso que con este disco han &#x3C;strong&#x3E;destilado&#x3C;/strong&#x3E; su m&#xE1;s concentrada &#x3C;strong&#x3E;esencia&#x3C;/strong&#x3E;. Esto es&#x3C;strong&#x3E; Rock alternativo&#x3C;/strong&#x3E; en &#x3C;strong&#x3E;castellano&#x3C;/strong&#x3E;.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menushinova1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/shinova8.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "vetustamorla",
+			"nombre": "Vetusta Morla",
+			"descripcion": "&#x3C;p class=&#x22;nomarginTop&#x22;&#x3E;Vetusta Morla puede presumir de contar con uno de los mejores directos de Espa&#xF1;a: La cuidad&#xED;sima puesta en escena, la contundencia de su sonido, la precisi&#xF3;n de su interpretaci&#xF3;n y la especial comuni&#xF3;n con su p&#xFA;blico, que se entrega en cada canci&#xF3;n como si fuera la &#xFA;ltima del concierto. Han valido innumerables reconocimientos y galardones; entre ellos el Premio al &#x201C;Mejor Directo de Espa&#xF1;a y Portugal&#x201D; en los Iberian Festival Awards organizados por Talkfest International Music Festival Forums, 10 Premios de la M&#xFA;sica Independiente entre 2015 y 2016 y los Premios Rolling Stone 2014 en las categor&#xED;as &#x2018;Grupo del Milenio&#x2019; y &#x2018;Disco del A&#xF1;o&#x2019; por La Deriva.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagevetustamorla.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/vetustamorla3.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "vivasuecia",
+			"nombre": "Viva Suecia",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;La banda murciana ha pasado de salas de 100 personas a reventar los escenarios principales de los festivales sin importar el horario al que les programasen. &#x3C;strong&#x3E;Premio MIN&#x3C;/strong&#x3E; a la canci&#xF3;n del a&#xF1;o por &#x22;Bien por ti&#x22; y &#x3C;strong&#x3E;nominados&#x3C;/strong&#x3E; a mejor artista espa&#xF1;ol en los &#x3C;strong&#x3E;MTV Music Awards 2017&#x3C;/strong&#x3E;, son, sin duda, uno de los grupos del momento.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/vivasuecia1.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/vivasuecia2.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "was",
+			"nombre": "WAS",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;WAS han tomando todos los elementos necesarios para reivindicar unas &#x3C;strong&#x3E;ra&#xED;ces propias&#x3C;/strong&#x3E; y recrearlas a trav&#xE9;s de &#x3C;strong&#x3E;sonidos contempor&#xE1;neos&#x3C;/strong&#x3E;. Una revoluci&#xF3;n s&#xF3;nica a disposici&#xF3;n del&#x26;nbsp;&#x3C;strong&#x3E;baile que incluye elementos del folklore vasco&#x3C;/strong&#x3E;&#x26;nbsp;(tambi&#xE9;n del euskera) con instrumentos centenarios, pop electr&#xF3;nico y house. &#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagewas.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/was1.jpg"
+				}
+			],
+			"fechaHora": "Viernes 6",
+			"escenario": "tba"
+		},
+		{
+			"id": "wethelion",
+			"nombre": "We The Lion",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; align=&#x22;justify&#x22;&#x3E;Banda &#x3C;strong&#x3E;revelaci&#xF3;n&#x3C;/strong&#x3E; &#x3C;strong&#x3E;peruana&#x3C;/strong&#x3E; de&#x3C;strong&#x3E; indie folk&#x3C;/strong&#x3E;. J&#xF3;venes lime&#xF1;os criados por familias amantes de la m&#xFA;sica. Su carrera musical se inici&#xF3; en el 93, cuando &#x3C;strong&#x3E;con 8 a&#xF1;os&#x3C;/strong&#x3E; dieron su primer concierto ante 150 alumnos de primaria. Tras varias idas y venidas, se reencuentran en 2011 y en 2016 publican &#x22;&#x3C;strong&#x3E;Violet&#x3C;/strong&#x3E;&#x22;&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagewtl.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/wethelion7.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		},
+		{
+			"id": "xoellopez",
+			"nombre": "Xoel López",
+			"descripcion": "&#x3C;p class=&quot;nomarginTop&quot; &#x3E;Nacido en A Coru&#xF1;a en 1977, Xoel L&#xF3;pez es  &#x3C;strong&#x3E;uno de los artistas m&#xE1;s representativos e influyentes&#x3C;/strong&#x3E; de la nueva canci&#xF3;n espa&#xF1;ola.&#x3C;/p&#x3E; &#x3C;p&#x3E;Aunque siempre se ha movido entre los sonidos del pop-rock alternativo y el folk cl&#xE1;sico, &#xE9;l se define como un &#x3C;strong&#x3E;artista libre&#x3C;/strong&#x3E;. Y as&#xED; lo demuestra. Xoel dej&#xF3; atr&#xE1;s una carrera exitosa y consolidada en su pa&#xED;s bajo el seud&#xF3;nimo de &#x3C;strong&#x3E;&#x201C;Deluxe&#x201D;&#x3C;/strong&#x3E; para, en enero de 2009, cruzar el charco y empezar una nueva etapa en el Continente Americano.&#x3C;/p&#x3E;",
+			"menuimage": "https://portamerica.es/app/menuimagexoel.jpg",
+			"images": [
+				{
+					"url": "https://portamerica.es/app/xoellopez1.jpg"
+				}
+			],
+			"fechaHora": "Sábado 7",
+			"escenario": "tba"
+		}
+	]
+}
